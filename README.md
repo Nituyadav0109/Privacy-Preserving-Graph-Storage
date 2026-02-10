@@ -46,7 +46,8 @@ java -cp src/main/java org.core.Demo
 mvn test
 ```
 
-## What is Intentionally NOT Supported
+## Intentionally Unsupported Features
+To preserve privacy guarantees, the following features are intentionally excluded:
 - Neighbor listing
 - Path traversal (BFS/DFS)
 - Graph compression
