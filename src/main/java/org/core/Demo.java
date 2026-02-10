@@ -30,7 +30,7 @@ public class Demo {
             System.out.println("Privacy-safe degree = " + pg.degree(node));
         }
 
-        // Privacy-safe aggregate information
+        // Privacy safe aggregate information
         System.out.println("\nTotal nodes in graph (privacy-safe) = " + pg.totalNodes());
 
         System.out.println("Average Degree (privacy-safe) = " +
